@@ -1,0 +1,19 @@
+{
+  "name": "nerdbot",
+  "version": "1.0.0",
+  "description": "A bot for videogamenerds, but free for anyone else who wants to use it probably",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenser-roark/nerdbot.git"
+  },
+  "author": "Spenser Roark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spenser-roark/nerdbot/issues"
+  },
+  "homepage": "https://github.com/spenser-roark/nerdbot#readme"
+}
