@@ -1,6 +1,11 @@
 # Nerdbot
 A bot for videogamenerds, but free for anyone else who wants to use it probably
 
+News:
+Nerdbot will connect to a few game news source apis
+    * It will print stories to the channel specified, default is "news"
+    * If allowed by the api it will be filtered by the tags/topics specified in config
+
 Dependencies:
 * npm
 * nodejs
