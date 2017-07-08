@@ -2,7 +2,7 @@
 A bot for videogamenerds, but free for anyone else who wants to use it probably
 
 #### News:
-Nerdbot will connect to a few game news source apis
+* Nerdbot will connect to a few game news source apis
     * It will print stories to the channel specified, default is "news"
     * If allowed by the api it will be filtered by the tags/topics specified in config
     * Eventually we want to allow for that to be automatic, but for now it references a few apis and just outputs the first article
