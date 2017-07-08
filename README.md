@@ -18,3 +18,18 @@ Dependencies:
     * babel-core
 * tokens.js
     * As mentioned above you need to create this file as that's what we use for the bot token, I'm not pushing my token to this repo for obvious reasons.
+    * Tokens is an object literal with the name of the bot as the key and the token as the value
+* ApiKeys.js
+    * Same as tokens this needs to be added, I'll fix it so it won't crash without these files but that data will still be needed evnetually
+    * ApiKeys is an object literal with the name of the news org as the key and the api key as the value
+
+#### Example required files:
+```
+Tokens.js {
+    nerdBotToken: "1234567890asdfgzxc",
+}
+
+ApiKeys.js: {
+    ign: "testApiKeyNumberAndWhatnot",
+}
+```
